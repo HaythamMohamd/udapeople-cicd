@@ -188,7 +188,7 @@ jobs:
               --template-file .circleci/files/frontend.yml \
               --tags project=udapeople \
               --stack-name "udapeople-front-${CIRCLCI_WORKFLOW_ID:0:7}" \
-              --parameter-overrides ID=${CIRCLCI_WORKFLOW_ID:0:7}"   
+              --parameter-overrides ID="${CIRCLCI_WORKFLOW_ID:0:7}"   
       - notify_on_failure
               
       - run:
