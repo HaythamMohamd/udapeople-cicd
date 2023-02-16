@@ -1,18 +1,5 @@
-1- Public Url to GitHub repository (not private) [URL01]
-
-https://github.com/HaythamMohamd/udapeople-cicd
-
-
-2-Public URL for your S3 Bucket (aka, your green candidate front-end) [URL02]
-
-http://udapeople-2e009a9.s3-website-us-east-1.amazonaws.com
-
-
-3- Cloudfront
-https://d3ovxu76l237jp.cloudfront.nett
-
-4- Backend
-ec2-44-200-132-125.compute-1.amazonaws.com	
-
-5- Prometheus
-ec2-54-175-252-62.compute-1.amazonaws.com	
+1- URL 1 (Github Public Repo) = https://github.com/HaythamMohamd/udapeople-cicd
+2- URL 2 (Public URL for S3 Bucket) = http://udapeople-6e56777.s3-website-us-east-1.amazonaws.com
+3- URL 3: (CloudFront Distribution) = https://d3ovxu76l237jp.cloudfront.net
+4- URL 4: (healthy backend application) = http://ec2-54-175-58-102.compute-1.amazonaws.com:3030/api/status
+5- URL 5: (Promethues Server Showing healthy Targets): http://ec2-3-236-38-84.compute-1.amazonaws.com:9090/targets
