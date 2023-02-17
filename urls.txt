@@ -1,5 +1,5 @@
 1- URL 1 (Github Public Repo) = https://github.com/HaythamMohamd/udapeople-cicd
-2- URL 2 (Public URL for S3 Bucket) = http://udapeople-6e56777.s3-website-us-east-1.amazonaws.com
+2- URL 2 (Public URL for S3 Bucket) = http://udapeople-d6550e2.s3-website-us-east-1.amazonaws.com
 3- URL 3: (CloudFront Distribution) = https://d3ovxu76l237jp.cloudfront.net
-4- URL 4: (healthy backend application) = http://ec2-54-175-58-102.compute-1.amazonaws.com:3030/api/status
-5- URL 5: (Promethues Server Showing healthy Targets): http://ec2-3-236-38-84.compute-1.amazonaws.com:9090/targets
+4- URL 4: (healthy backend application) = ec2-54-152-113-154.compute-1.amazonaws.com:3030/api/status
+5- URL 5: (Promethues Server Showing healthy Targets): http://ec2-3-239-219-212.compute-1.amazonaws.com:9090/targets
